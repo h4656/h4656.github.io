@@ -1,5 +1,5 @@
 ---
-![image](https://github.com/user-attachments/assets/89fbca96-4190-4a91-ace8-b5116580848f)
+![image](/images/fish.jpg)
 
 ### Welcome to my blog!
 
