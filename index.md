@@ -1,5 +1,5 @@
 ---
-![image](/images/fish.jpg)
+<img src = '/images/fish.jpg' width = 100%>
 
 ### Welcome to my blog!
 
