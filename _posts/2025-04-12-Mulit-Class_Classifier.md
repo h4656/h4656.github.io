@@ -4,7 +4,7 @@
 Fastai has developed many libraries that enable the development of artificial intelligence models to be simple and easily accessible. Using the Fast AI course, I developed my own classifier model that can recognise images as being either an airplane, automobile, bird, cat, or dog. The following depicts the methods for creating the classifier model. 
 <p align="center">
   
-<img src = '/images/multi.png' height = 100>
+<img src = '/images/multi.png' height = 300>
 
 </p>
 
