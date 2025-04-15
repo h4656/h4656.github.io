@@ -1,9 +1,16 @@
 ---
 # Creating a Multi-Class Classifier with Fastai
 ---
-<p align="center" height=100>
+Fastai has developed many libraries that enable the development of artificial intelligence models to be simple and easily accessible. Using the Fast AI course, I developed my own classifier model that can recognise images as being either an airplane, automobile, bird, cat or dog. The following depicts the methods for creating the classifier model. 
+<p align="center">
   
 ![image](https://github.com/user-attachments/assets/3c7f5fa5-c1cc-40b9-b4d3-6dd1f577c34a)
 
 </p>
+
+The classifier model was developed using the Fast Ai model 'is-it-a-bird', which classifies images as either a bird or a forest.
+Get the Jupyter Notebook containing models used in the Fast AI Course by cloning the following Git Repository
+> 🔗: **Copy:** <a href="https://github.com/lovellbrian/course22.git" target="_blank">Fast AI Course Notebook</a>
+
+
 
