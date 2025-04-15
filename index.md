@@ -1,7 +1,6 @@
-<body></body>
-<div color='blue'>
-  Welcome to my blog!. The purpose of this blog is to document my learning of Artificial Intelligence from the Fastai course.
+![image](https://github.com/user-attachments/assets/45b072ce-234c-4b2e-ae3a-afa35a18ff45)
 
-  ![image](https://github.com/user-attachments/assets/99f5ea35-f7a9-4ccf-9a87-96a930b055d7)
-</div>
-</body>
+<span style="color:blue"> Welcome to my blog!. </span>
+
+The purpose of this blog is to document my learning of Artificial Intelligence from the Fastai course.
+
