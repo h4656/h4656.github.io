@@ -1,5 +1,4 @@
 ---
-![img](/images/fish.png)
 
 ### Welcome to my blog!
 
