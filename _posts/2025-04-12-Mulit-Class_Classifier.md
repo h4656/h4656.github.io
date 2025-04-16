@@ -10,7 +10,11 @@ Fastai has developed many libraries that enable the development of artificial in
 
 The classifier model was developed using the Fast Ai model 'is-it-a-bird', which classifies images as either a bird or a forest.
 Get the Jupyter Notebook containing models used in the Fast AI Course by cloning the following Git Repository, then open the 'is-it-a-bird' notebook. 
+
 > 🔗 **Copy:** <a href="https://github.com/lovellbrian/course22.git" target="_blank">Fast AI Course Notebook</a>
+```python
+git clone 'https://github.com/lovellbrian/course22.git'
+```
 
 
 
