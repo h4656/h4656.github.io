@@ -3,4 +3,4 @@
 The purpose of this blog is to document my learning of Artificial Intelligence from the Fastai course.
 
 ---
-<img src ='/images/fish.png' width = 100%>
+<img src ='/images/fish.png'>
