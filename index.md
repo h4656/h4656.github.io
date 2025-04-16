@@ -1,5 +1,5 @@
 ---
-<img src = '/images/fish.jpg' width = 100%>
+<img src = '/images/fish.png' width = 100%>
 
 ### Welcome to my blog!
 
