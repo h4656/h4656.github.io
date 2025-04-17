@@ -24,7 +24,7 @@ Additionally, some of the images downloaded may not be suitable to the Fastai Le
 
 ## Train the Model
 ---
-Once the dataset has been collated, the training model can be developed using a `Dataloaders`. A `DataBlock` enables a `Dataloader` object to be easily created from a dataset of sample images for the model. The meaning of the `DataBlock` parameters is depicted in the below table. 
+Once the dataset has been collated, the training model can be developed using a `Dataloaders`. A `DataBlock` enables a `Dataloader` object to be easily created from a dataset of sample images for the model. 
 
 
 ```python
@@ -40,6 +40,11 @@ dls = DataBlock(
 
 dls.show_batch(max_n=6)
 ```
+Then run the following to begin training the model
 
+```python
+learn = vision_learner(dls, resnet18, metrics=error_rate)
+learn.fine_tune(3)
+```
 
 
